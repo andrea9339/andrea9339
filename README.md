@@ -1,1 +1,3 @@
-<img src="https://github.com/andrea9339/andrea9339/blob/main/Giovane%20al%20lavoro%20su%20laptop.png">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
