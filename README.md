@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Hi%20everyone!&fontSize=90" />
