@@ -58,4 +58,3 @@ currently_learning:
 </h1>
 
 ![Snake animation](https://github.com/andrea9339/blob/output/github-contribution-grid-snake.svg)
-
