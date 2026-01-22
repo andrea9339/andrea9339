@@ -44,7 +44,6 @@ currently_learning:
 <img width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhqZXJldzI0N3g1ODJ2M2Z2MmxpbWhkbXlxc2FpNXI3ZmtoOW90MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"/>
 </a>
 
-
 <h1><strong>This is my linkedin btw</strong>
 <img width="40" height="40" alt="immagine" src="https://github.com/user-attachments/assets/dc5b81fd-92ac-43fd-94a6-7a6c4cf28185" />
 </span>
@@ -58,4 +57,5 @@ currently_learning:
 </a>
 </h1>
 
+![Snake animation](https://github.com/andrea9339/blob/output/github-contribution-grid-snake.svg)
 
