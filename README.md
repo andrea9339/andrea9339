@@ -3,24 +3,24 @@
 <h1>👨‍💻 &nbsp;A little bit about myself:</h1>
 
 ```yaml
-name: Andrea Mugnano
-located_in: Bologna, Italy
+Name: Andrea Mugnano
+Located_in: Bologna, Italy
 
-current_job: AI specialist
-company: Tutela Digitale
+Current_job: AI specialist
+Company: Tutela Digitale
 
-education:
+Education:
   - Self-Taught Developer and Designer
   - Master's in Artificial Intelligence
   - Bachelor's in Civil Engineering
 
-fields_of_interests:
+Fields_of_interests:
   - Web Development
   - Data Science
   - Machine Learning
   - UI/UX
 
-currently_learning:
+Currently_learning:
   - Flask
   - React
 ```
