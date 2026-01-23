@@ -39,6 +39,7 @@ Currently_learning:
 <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="php" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" alt="php" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MiniZinc_logo.svg/1280px-MiniZinc_logo.svg.png?20250406050903" alt="php" width="45" height="45"/>
 </p>
 
 <img width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhqZXJldzI0N3g1ODJ2M2Z2MmxpbWhkbXlxc2FpNXI3ZmtoOW90MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"/>
