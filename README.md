@@ -42,7 +42,7 @@ Currently_learning:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MiniZinc_logo.svg/1280px-MiniZinc_logo.svg.png?20250406050903" alt="php" width="45" height="45"/>
 </p>
 
-<img width="620" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhqZXJldzI0N3g1ODJ2M2Z2MmxpbWhkbXlxc2FpNXI3ZmtoOW90MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"/>
+<img width="635" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhqZXJldzI0N3g1ODJ2M2Z2MmxpbWhkbXlxc2FpNXI3ZmtoOW90MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"/>
 </a>
 
 <h1><strong>This is my linkedin btw</strong>
